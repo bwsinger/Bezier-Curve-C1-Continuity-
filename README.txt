@@ -1,6 +1,3 @@
-Bradley Singer
-997990414
-
 The program loads a default arrangement of 5 C1 contiguous bezier curves
 when first opened. Each of the 5 curves have a unique color. While the program is running,
 the program outputs “diagnostics” to the console such as which node was clicked and which 
